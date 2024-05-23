@@ -8,4 +8,4 @@ esta es una prueba.
 
 ##hola
 
-[ ir a Google](www.google.es)
+[ ir a Google](https://www.google.es/)
